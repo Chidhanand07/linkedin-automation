@@ -1,0 +1,10 @@
+linkedin:
+  daily_connection_limit: 15
+  daily_message_limit: 10
+
+browser:
+  headless: false
+
+delays:
+  min_action_delay_ms: 800
+  max_action_delay_ms: 3000
