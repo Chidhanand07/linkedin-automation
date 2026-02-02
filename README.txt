@@ -1,4 +1,4 @@
-Here is a complete, clean, submission-ready README.md that matches your project exactly and defends all design decisions.
+
 
 You can copy-paste this as-is into README.md.
 
